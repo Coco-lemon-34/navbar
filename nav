@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>navbar, 12/10/22</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <header>
+            <img class="logo" src="images/logo.png" alt="logo" width="200px" height="25px">
+            <nav>
+                <ul class="nav__links">
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+            <a class="#" href="contact.html"><button>Contact us</button></a>
+        </header>
+</body>
+</html>
